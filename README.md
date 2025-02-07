@@ -1,4 +1,4 @@
-# Projects
+# PROJECTS
 ## Sentiment Analysis
 Developed a sentiment analysis project using Amazon review data, where I extracted, cleaned, and
 preprocessed the dataset to ensure quality, performed sentiment classification (positive, negative, neutral), and
